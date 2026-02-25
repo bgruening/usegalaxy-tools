@@ -131,3 +131,639 @@ tools:
   - 2dc244356765
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
+- name: bia_download
+  owner: bgruening
+  revisions:
+  - 7954b19bb7a4
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_cellprofiler4
+  owner: bgruening
+  revisions:
+  - 9799fc53433e
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: color_deconvolution
+  owner: imgteam
+  revisions:
+  - 0cbdf78fee14
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: ridge_filter
+  owner: imgteam
+  revisions:
+  - f37d2ad5f532
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: anisotropic_diffusion
+  owner: imgteam
+  revisions:
+  - 6ad5de2c5b7c
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: 2d_local_threshold
+  owner: imgteam
+  revisions:
+  - be2d3ce89c0f
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: orientationpy
+  owner: imgteam
+  revisions:
+  - cc8fe984ec3e
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: segmetrics
+  owner: imgteam
+  revisions:
+  - 4512751bccca
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: superdsm
+  owner: imgteam
+  revisions:
+  - fc3724b4f841
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: rfove
+  owner: imgteam
+  revisions:
+  - 81b246085378
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: plantseg
+  owner: imgteam
+  revisions:
+  - e59c0e930b1f
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: colorize_labels
+  owner: imgteam
+  revisions:
+  - 5907be5a8d7c
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: label_to_binary
+  owner: imgteam
+  revisions:
+  - 5da15c3bafed
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: repeat_channels
+  owner: imgteam
+  revisions:
+  - 7cdb50fee601
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: landmark_registration
+  owner: imgteam
+  revisions:
+  - a7a21b7ac7b4
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: landmark_registration_ls
+  owner: imgteam
+  revisions:
+  - 69db8c7d4244
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: image_registration_affine
+  owner: imgteam
+  revisions:
+  - 5030651c2993
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: projective_transformation
+  owner: imgteam
+  revisions:
+  - 6a8ae8cd7167
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: projective_transformation_points
+  owner: imgteam
+  revisions:
+  - 499ad4d9aa13
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagecoordinates_flipaxis
+  owner: imgteam
+  revisions:
+  - 984b342d03a6
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: 2d_split_binaryimage_by_watershed
+  owner: imgteam
+  revisions:
+  - f8f7987586b7
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: 2d_filter_segmentation_by_features
+  owner: imgteam
+  revisions:
+  - ea6dae3f10a2
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: binaryimage2points
+  owner: imgteam
+  revisions:
+  - f38f42d55813
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: mergeneighboursinlabelimage
+  owner: imgteam
+  revisions:
+  - 9cbddb13fb9e
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: scale_image
+  owner: imgteam
+  revisions:
+  - e85846f4a05f
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: slice_image
+  owner: imgteam
+  revisions:
+  - a72590196440
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: split_labelmap
+  owner: imgteam
+  revisions:
+  - 0e7be7c35f15
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: concat_channels
+  owner: imgteam
+  revisions:
+  - 999c5941a6f0
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: points2binaryimage
+  owner: imgteam
+  revisions:
+  - 5411384e5e1d
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: points2labelimage
+  owner: imgteam
+  revisions:
+  - 22bb32eae6a1
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: labelimage2points
+  owner: imgteam
+  revisions:
+  - 3b7460735223
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: permutate_axis
+  owner: imgteam
+  revisions:
+  - 119863c974b3
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: mahotas_features
+  owner: imgteam
+  revisions:
+  - e26894daf0a0
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: 2d_feature_extraction
+  owner: imgteam
+  revisions:
+  - 519fad2c552a
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: coordinates_of_roi
+  owner: imgteam
+  revisions:
+  - 00175f4a2bbb
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: detection_viz
+  owner: imgteam
+  revisions:
+  - 99433164b593
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: colocalization_viz
+  owner: imgteam
+  revisions:
+  - 0f8652663a03
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: overlay_moving_and_fixed_image
+  owner: imgteam
+  revisions:
+  - b4fc6e09e576
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: overlay_segmentation_mask
+  owner: imgteam
+  revisions:
+  - 22e573b7dcb1
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: wsi_extract_top_view
+  owner: imgteam
+  revisions:
+  - 3bd767eee603
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: visceral_evaluatesegmentation
+  owner: imgteam
+  revisions:
+  - 4d042d197ac3
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: voronoi_tesselation
+  owner: imgteam
+  revisions:
+  - 1944b0fccdbd
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: image_info
+  owner: imgteam
+  revisions:
+  - f8b4eada923c
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_binary_to_edm
+  owner: imgteam
+  revisions:
+  - 91b8f4730a93
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_compare_elastic_raw
+  owner: imgteam
+  revisions:
+  - da91b5eaf92d
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_compose_raw_elastic
+  owner: imgteam
+  revisions:
+  - bdc70b34153a
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_analyze_particles_binary
+  owner: imgteam
+  revisions:
+  - 862af85a50ec
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_skeletonize3d
+  owner: imgteam
+  revisions:
+  - 5f5b7185bc16
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_create_image
+  owner: imgteam
+  revisions:
+  - 69e28b06e027
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_noise
+  owner: imgteam
+  revisions:
+  - 73cc4e6a741d
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_find_edges
+  owner: imgteam
+  revisions:
+  - 633bea9c8ee0
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_shadows
+  owner: imgteam
+  revisions:
+  - f7ae316b00e4
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_compose_raw
+  owner: imgteam
+  revisions:
+  - f068e9171af2
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_enhance_contrast
+  owner: imgteam
+  revisions:
+  - 1f92b1da556b
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_find_maxima
+  owner: imgteam
+  revisions:
+  - 4409f9eb9433
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_align
+  owner: imgteam
+  revisions:
+  - 711adedc5bb8
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_watershed_binary
+  owner: imgteam
+  revisions:
+  - 29aca8eebdaa
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_raw_transform
+  owner: imgteam
+  revisions:
+  - 69e951528a0b
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_smooth
+  owner: imgteam
+  revisions:
+  - c11777ffe5b1
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_analyze_skeleton
+  owner: imgteam
+  revisions:
+  - 50f2b961b192
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_compare_elastic
+  owner: imgteam
+  revisions:
+  - f9f2d9746a01
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_compare_raw
+  owner: imgteam
+  revisions:
+  - b0da913f048e
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_convert_to_raw
+  owner: imgteam
+  revisions:
+  - bd2aadf0f589
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_make_binary
+  owner: imgteam
+  revisions:
+  - 1cf9771e0e53
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_sharpen
+  owner: imgteam
+  revisions:
+  - 418b1fa32b83
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_compose_elastic
+  owner: imgteam
+  revisions:
+  - e781a17b3c14
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_adjust_threshold_binary
+  owner: imgteam
+  revisions:
+  - 2b007b1e6c1b
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_math
+  owner: imgteam
+  revisions:
+  - d426c25946d4
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_elastic_transform
+  owner: imgteam
+  revisions:
+  - f72f8e6787cd
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: imagej2_bunwarpj_adapt_transform
+  owner: imgteam
+  revisions:
+  - c4774c1a35ea
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: iscc_sum
+  owner: imgteam
+  revisions:
+  - 7d2c95a58897
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: iscc_sum_verify
+  owner: imgteam
+  revisions:
+  - fe0c92fe6f66
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: iscc_sum_similarity
+  owner: imgteam
+  revisions:
+  - a9659266d0fc
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: highdicom_dicom2text
+  owner: imgteam
+  revisions:
+  - 5da9fe99cf02
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: highdicom_dicom2tiff
+  owner: imgteam
+  revisions:
+  - 5d840cf51a67
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: clip_image
+  owner: imgteam
+  revisions:
+  - 53be9a7f94a6
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: libcarna_render
+  owner: imgteam
+  revisions:
+  - 8fa86f0ebca2
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: bioformats2raw
+  owner: imgteam
+  revisions:
+  - 51ff1667c499
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: morphological_operations
+  owner: imgteam
+  revisions:
+  - 4e25befab102
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: image_math
+  owner: imgteam
+  revisions:
+  - 48fa3ac55df2
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_cellprofiler
+  owner: bgruening
+  revisions:
+  - eb6c08714244
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_common
+  owner: bgruening
+  revisions:
+  - 6070780813d9
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_color_to_gray
+  owner: bgruening
+  revisions:
+  - bad171ed1e96
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_tile
+  owner: bgruening
+  revisions:
+  - 443638c10c61
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_track_objects
+  owner: bgruening
+  revisions:
+  - 972d2c365739
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_overlay_outlines
+  owner: bgruening
+  revisions:
+  - b44b081bcf37
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_convert_objects_to_image
+  owner: bgruening
+  revisions:
+  - ef4aed1d34c4
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_display_data_on_image
+  owner: bgruening
+  revisions:
+  - 5d28ac336861
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_enhance_or_suppress_features
+  owner: bgruening
+  revisions:
+  - bace5a93a97c
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_export_to_spreadsheet
+  owner: bgruening
+  revisions:
+  - f24c370e5ea4
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_gray_to_color
+  owner: bgruening
+  revisions:
+  - 3245681b2f6d
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_identify_primary_objects
+  owner: bgruening
+  revisions:
+  - 87d4d92d7487
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_mask_image
+  owner: bgruening
+  revisions:
+  - 667a513e67e4
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_measure_granularity
+  owner: bgruening
+  revisions:
+  - 2564f461de62
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_measure_image_area_occupied
+  owner: bgruening
+  revisions:
+  - a32c3f810ade
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_measure_image_intensity
+  owner: bgruening
+  revisions:
+  - b64af54c5c09
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_measure_image_quality
+  owner: bgruening
+  revisions:
+  - d3890df07463
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_measure_object_intensity
+  owner: bgruening
+  revisions:
+  - e52c75a28c4b
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_measure_object_size_shape
+  owner: bgruening
+  revisions:
+  - d85f11570109
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_measure_texture
+  owner: bgruening
+  revisions:
+  - b76841ee5560
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_relate_objects
+  owner: bgruening
+  revisions:
+  - 48102a685037
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_save_images
+  owner: bgruening
+  revisions:
+  - 27edbb90ab2b
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: cp_image_math
+  owner: bgruening
+  revisions:
+  - ff1a86a87364
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: background_removal
+  owner: imgteam
+  revisions:
+  - 6e9e98a7be4e
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: split_image
+  owner: imgteam
+  revisions:
+  - 390943df8a35
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
+- name: crop_image
+  owner: imgteam
+  revisions:
+  - 2852af87036d
+  tool_panel_section_id: imaging
+  tool_panel_section_label: Imaging
