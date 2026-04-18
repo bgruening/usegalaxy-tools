@@ -724,6 +724,7 @@ tools:
 - name: seurat_integrate
   owner: iuc
   revisions:
+  - 2e2401b443cf
   - 74fa68f4e579
   - 7704fb998596
   tool_panel_section_id: single_cell
