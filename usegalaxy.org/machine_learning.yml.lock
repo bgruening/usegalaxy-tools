@@ -19,6 +19,7 @@ tools:
   - dbf05afb8e6c
   - de753cf07008
   - ed2fefc8d892
+  - efc6ea65f3ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: image_learner
@@ -46,6 +47,7 @@ tools:
   - 209b663a4f62
   - 49f73a3c12f3
   - 4bd75b45a7a1
+  - b65937214830
   - ba45bc057d70
   - bf0df21a1ea3
   - e7dd78077b72
@@ -346,6 +348,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 1682df52c084
@@ -447,6 +450,7 @@ tools:
   - 87cb9cb44d1f
   - 893285b150f8
   - d3e99d3df1ca
+  - dea38330b78a
   - e76f6dfea5c9
   - fc48ce12454b
   tool_panel_section_id: machine_learning
@@ -478,6 +482,7 @@ tools:
   - 734c66aa945a
   - 8e447b95e6a8
   - 9084156b2bb5
+  - a293d7937700
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -533,6 +538,7 @@ tools:
   - 89f11e2b0673
   - a4f18bbb4eca
   - caeb57858702
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
