@@ -708,6 +708,7 @@ tools:
   revisions:
   - 0db84eba4b55
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
