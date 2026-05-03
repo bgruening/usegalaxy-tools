@@ -99,6 +99,7 @@ tools:
   - 40fa6c240105
   - 56fb540810ce
   - 83b8e36e9cbe
+  - a50321bc1a90
   - b5527cc104ab
   - ef678e1f70a2
   tool_panel_section_id: sam_bam
@@ -106,6 +107,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 68a116f469db
   - 84819580b8a5
   - bc0cc7bfbfe9
