@@ -193,6 +193,7 @@ tools:
   owner: iuc
   revisions:
   - 00e0347751b1
+  - 6be249bfd55b
   - 81fc1ff02788
   - e8768ddeba32
   tool_panel_section_id: metagenomic_analysis
@@ -232,6 +233,7 @@ tools:
 - name: dada2_removebimeradenovo
   owner: iuc
   revisions:
+  - 0a13d449d1bf
   - 4efeb75704c8
   - 6bd7c48ff6ed
   - efe26de231ec
