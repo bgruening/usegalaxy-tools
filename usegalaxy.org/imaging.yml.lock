@@ -452,6 +452,7 @@ tools:
 - name: imagej2_find_edges
   owner: imgteam
   revisions:
+  - 59b8bef26edf
   - 633bea9c8ee0
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -473,6 +474,7 @@ tools:
   owner: imgteam
   revisions:
   - 1f92b1da556b
+  - 93cb13a320fe
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_find_maxima
@@ -486,6 +488,7 @@ tools:
   owner: imgteam
   revisions:
   - 711adedc5bb8
+  - a13240a1a6d3
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_watershed_binary
@@ -575,6 +578,7 @@ tools:
   owner: imgteam
   revisions:
   - c4774c1a35ea
+  - c853e60002db
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: iscc_sum
