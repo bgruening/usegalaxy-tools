@@ -235,6 +235,7 @@ tools:
   - 78faebd0879c
   - 806fe614ca46
   - 8daf4564ccda
+  - aae21f831e95
   - ac72310b038a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -289,6 +290,7 @@ tools:
   - e8768ddeba32
   - e8fba04706d3
   - f732237754fc
+  - f8b8c95bff89
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_dada
@@ -302,6 +304,7 @@ tools:
   - 6b4ddc3b64bd
   - 84fd33a60b35
   - 89d11e95a9b1
+  - 9010b9e13dec
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - b762f4d54f78
@@ -347,6 +350,7 @@ tools:
   revisions:
   - 0b884b080bb6
   - 1d75bd0595e2
+  - 2495262244bd
   - 273b8a00c8a2
   - 306a40d4bb8f
   - 35176674168c
@@ -956,6 +960,7 @@ tools:
 - name: drep_compare
   owner: iuc
   revisions:
+  - e5dc009367ef
   - f0334664a47b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -963,6 +968,7 @@ tools:
   owner: iuc
   revisions:
   - 76b57044069d
+  - 8165eab19456
   - d730086e1432
   - f54e7b3da33c
   tool_panel_section_id: metagenomic_analysis
