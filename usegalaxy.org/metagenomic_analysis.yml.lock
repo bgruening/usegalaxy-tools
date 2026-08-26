@@ -1185,3 +1185,9 @@ tools:
   - ddfb9c10740a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
+- name: comebin
+  owner: iuc
+  revisions:
+  - ddfb9c10740a
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
