@@ -95,6 +95,7 @@ tools:
   - 6da3972210ee
   - a6ea26c1f225
   - b4e6819b25ef
+  - b7c3dcb76c02
   - b7ce99273d62
   - cf1322aeb137
   - d82648ad25a3
@@ -199,6 +200,7 @@ tools:
   - aa0abf2d2722
   - c05177db395f
   - c64bee2dc319
+  - eec8bb68845e
   - f885abcfe3a0
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -228,6 +230,7 @@ tools:
   - 78c4cef2b5a9
   - 79182c2a8c80
   - 8cf5c6162cae
+  - 97c8a5fbcca0
   - a68e128cdb1a
   - aa5586d83ae3
   - d10e7502aba8
@@ -248,6 +251,7 @@ tools:
   - 54a6fb045aea
   - 64d732725a73
   - 7e353b95f0b6
+  - 86b758c95d19
   - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_id: mapping
