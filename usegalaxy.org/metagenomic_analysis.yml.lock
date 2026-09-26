@@ -33,6 +33,7 @@ tools:
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
+  - ad7226fac56d
   - d663d090c710
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
@@ -47,6 +48,7 @@ tools:
 - name: vegan_rarefaction
   owner: iuc
   revisions:
+  - 2e07478654b3
   - af1211ed6c8e
   - b0d5976540e3
   tool_panel_section_id: metagenomic_analysis
@@ -55,12 +57,14 @@ tools:
   owner: iuc
   revisions:
   - 0148e5cf20b2
+  - 9e3206d6c148
   - f9966e11885b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - a2c047a2c380
   tool_panel_section_id: metagenomic_analysis
@@ -621,6 +625,7 @@ tools:
   - 22384d3d25f4
   - 23d6489e2604
   - 86dec4abcea8
+  - f4409b2e1501
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
@@ -628,6 +633,7 @@ tools:
   revisions:
   - 3852f36e3154
   - 43f9ca23c132
+  - 9c102da4ca13
   - 9de5319ad2db
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -635,6 +641,7 @@ tools:
   owner: iuc
   revisions:
   - 10cf5017bf01
+  - 45fb62c28c9b
   - 8249e5aa200c
   - c932095af671
   tool_panel_section_id: metagenomic_analysis
@@ -642,6 +649,7 @@ tools:
 - name: mash_paste
   owner: iuc
   revisions:
+  - 618969c1d8e1
   - 8f32dcfde5d9
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
@@ -681,6 +689,7 @@ tools:
   owner: iuc
   revisions:
   - 2db2dc0eca8c
+  - 2ef21eba2d01
   - 591175c0f051
   - 612df2a5054f
   - 613ee22af97c
@@ -739,6 +748,7 @@ tools:
   - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
+  - f09a7ce2f629
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_from_biom
@@ -747,6 +757,7 @@ tools:
   - 04ba1fa0fe57
   - 05e985e0decf
   - 847f433f202b
+  - ac3cb54afbd0
   - b6a38f6222af
   - c0101c72b8af
   - eed716573aba
@@ -757,6 +768,7 @@ tools:
   revisions:
   - 2715e89adff4
   - 32f892954ef6
+  - 47fffb4462d8
   - 5007bc8a3d90
   - bbd9d1022144
   - cee4982a717b
@@ -769,6 +781,7 @@ tools:
   - 10a7732528b2
   - 7ed99cb39c9d
   - '817853857084'
+  - 83c8e8560d8f
   - d6cbeb48294d
   - fb7c4bbe8994
   - fd170b83f148
@@ -899,6 +912,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 05d7672c6bed
   - 27ac516ba719
   - 3481feabc54e
   - 5029fd9d572e
@@ -1182,6 +1196,7 @@ tools:
 - name: comebin
   owner: iuc
   revisions:
+  - cd1d8332bc04
   - ddfb9c10740a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
