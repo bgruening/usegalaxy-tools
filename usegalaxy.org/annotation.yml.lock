@@ -178,6 +178,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -231,6 +232,7 @@ tools:
   - 0e07bc110728
   - 4f85da43b40c
   - 8994fea8fbde
+  - 8fbb0629a99d
   - 91eee66904fe
   - b095c69eab5b
   - b0f07e3d6f07
@@ -241,6 +243,7 @@ tools:
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -333,6 +336,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -520,6 +524,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -608,6 +613,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -628,6 +634,7 @@ tools:
 - name: helixer
   owner: genouest
   revisions:
+  - a3586bccb95f
   - c2fc4ac35199
   - cef77c1fe708
   tool_panel_section_id: annotation
@@ -672,6 +679,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
