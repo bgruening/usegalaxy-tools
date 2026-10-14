@@ -175,6 +175,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 05d7672c6bed
   - 27ac516ba719
   - 5029fd9d572e
   - 738474880da8
@@ -369,6 +370,7 @@ tools:
 - name: comebin
   owner: iuc
   revisions:
+  - cd1d8332bc04
   - ddfb9c10740a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
